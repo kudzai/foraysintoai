@@ -19,6 +19,6 @@ pip install -r requirements.txt
 
 Run main.py:
 ```bash
-python main.py
+python physics_teacher.py
 ```
 or from your IDE.
